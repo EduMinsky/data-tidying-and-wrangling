@@ -1,1 +1,2 @@
-# data-tidying-and-wrangling
+# data-tidying
+Works in the field of ecological niche modeling, biogeography and macroecology relies in the use of online database about the distribution os species. Most of the time, such bases are confusing, with unreliable data and are not standardized. In this exercise I created a way to clean  and standardize the database for 3 species of grouper, derived from GBIF (https://www.gbif.org/), the most famous online database for distribution of species. I also created a way to validade our database based on distribution polygons created by specialists.
